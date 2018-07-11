@@ -1,0 +1,12 @@
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/bin/Debug/netstandard2.0/JenkinsPlayStore.deps.json
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/bin/Debug/netstandard2.0/JenkinsPlayStore.dll
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/bin/Debug/netstandard2.0/JenkinsPlayStore.pdb
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/JenkinsPlayStore.csprojResolveAssemblyReference.cache
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/JenkinsPlayStore.csproj.CoreCompileInputs.cache
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/JenkinsPlayStore.AssemblyInfoInputs.cache
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/JenkinsPlayStore.AssemblyInfo.cs
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/JenkinsPlayStore.dll
+/Users/sthiagar/Projects/JenkinsPlayStore/JenkinsPlayStore/obj/Debug/netstandard2.0/JenkinsPlayStore.pdb
